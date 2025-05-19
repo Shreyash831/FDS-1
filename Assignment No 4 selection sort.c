@@ -27,20 +27,3 @@ for (i = 0; i < n; i++) {
   return 0;
 
 }
----------------------------------------------------------------------------------------------------------------------
-Enter size of array: 6
-Enter array elements:
-Enter element 1: 3
-Enter element 2: 1
-Enter element 3: 5
-Enter element 4: 2
-Enter element 5: 6
-Enter element 6: 4
-Sorted elements are:
-1
-2
-3
-4
-5
-6
-=== Code Execution Successful ===
